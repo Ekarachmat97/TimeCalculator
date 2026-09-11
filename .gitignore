@@ -3,6 +3,12 @@ bin/
 obj/
 [Bb]in/
 [Oo]bj/
+Program/Time Calculator/*.exe
+Program/Time Calculator/*.dll
+Program/Time Calculator/*.dat
+installer/*.exe
+installer/*.dll
+installer/*.dat
 
 # Visual Studio / VS Code
 .vs/
